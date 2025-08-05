@@ -3,6 +3,8 @@ layout: home
 title: "Welcome to My Portfolio"
 ---
 
+<img src="/assets/images/profile.jpg" alt="Aadish Joshi" class="profile-pic" />
+
 # Aadish Joshi
 **Senior Machine Learning Engineer**  
 📍 Austin, TX | +1 (682)-414-8326  
