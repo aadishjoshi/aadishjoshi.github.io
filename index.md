@@ -3,7 +3,7 @@ layout: home
 title: "Welcome to My Portfolio"
 ---
 
-<img src="/assets/images/profile.jpg" alt="Aadish Joshi" class="profile-pic" />
+<img src="/assets/images/profile.png" alt="Aadish Joshi" class="profile-pic" />
 
 # Aadish Joshi
 **Senior Machine Learning Engineer**  
